@@ -2,13 +2,12 @@
 
 - Atualmente estou aprendendo HTML e CSS e Javascript no Curso em video
 - 📫 contate-me no email: Jadsonunico90@gmail.com
-
-<div style="display:block;">
-  <a href="https://github.com/Jadsonl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadsonl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadsonl&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
+  <div>
+  <a href="https://github.com/jadsonl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonl&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   <hr>
   
   <h2 align="center">Tecnologias que estudo/utilizo atualmente</h2>
