@@ -3,10 +3,10 @@
 - Atualmente estou aprendendo HTML e CSS e Javascript no Curso em video
 - 📫 contate-me no email: Jadsonunico90@gmail.com
 
-<div align="center">
+<div style="display:inline;">
   <a href="https://github.com/Jadsonl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadsonl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadsonl&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadsonl&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <hr>
