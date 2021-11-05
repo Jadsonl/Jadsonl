@@ -36,4 +36,9 @@
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/-discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>
+<p align="center"> 
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jadsonl/count.svg" />
+ </p>
