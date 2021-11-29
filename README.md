@@ -1,6 +1,6 @@
 <h1 align="center">Olá eu sou Jadson Santana, Estudante de programação e tecnologia!</h1>
 
-- Atualmente estou aprendendo HTML, CSS e Javascript no <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>
+- Atualmente estou aprendendo HTML, CSS e Javascript
 - 📫 contate-me no email: Jadsonunico90@gmail.com
   
   <div align="center">
