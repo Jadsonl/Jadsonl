@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou Jadson Santana, Estudante de programação e tecnologia!</h1>
+<h1 align="center">Olá eu sou Jadson Santana, Programador Front-End</h1>
 
 - Atualmente estou aprendendo Javascript
 - 📫 contate-me no email: Jadsonunico90@gmail.com
