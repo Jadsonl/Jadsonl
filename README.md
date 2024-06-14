@@ -32,11 +32,12 @@
   </a>
 </div>
 
-  <hr>
-<p > 
+<!--  <hr>
+ <p > 
 <h1 align="center">Total profile visits :detective: </h2><br>
 
  <p align="center"> 
   
    <img alingn="center" src="https://profile-counter.glitch.me/jadsonl/count.svg" />
  </p>
+ -->
