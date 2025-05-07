@@ -17,7 +17,9 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
   <img align="center" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40px"/> -
-  <img align="center" alt="React" src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" width="60px"/>
+  <img align="center" alt="React" src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" width="60px"/> -
+  <img align="center" alt="React" src="https://assets.blackslate.io/posts/01/dD5sCoYFg6pRt8u.png" width="50px"/> -
+  <img align="center" alt="React" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="55px"/>
 </div>
 
 <hr>
